@@ -1,0 +1,9 @@
+services:
+  thermoenergy-website:
+    build: ./frontend
+    ports:
+      - "3065:3065"
+    environment:
+      - PORT=3065
+      - REACT_APP_PORT=3065
+    restart: always
