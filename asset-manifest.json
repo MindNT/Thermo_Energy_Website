@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Thermo_Energy_Website/static/css/main.4a257c83.css",
+    "main.js": "/Thermo_Energy_Website/static/js/main.5454c322.js",
+    "static/media/Video1.mp4": "/Thermo_Energy_Website/static/media/Video1.6832035471b178812b0a.mp4",
+    "static/media/Video3.mp4": "/Thermo_Energy_Website/static/media/Video3.55def0dbd4d5fd3de5e6.mp4",
+    "static/media/Video2.mp4": "/Thermo_Energy_Website/static/media/Video2.387db8ed4734b5d7b82c.mp4",
+    "static/media/imagen1.webp": "/Thermo_Energy_Website/static/media/imagen1.db0d9e7cd392142227e0.webp",
+    "static/media/user1.webp": "/Thermo_Energy_Website/static/media/user1.094b4701bd7657c4af80.webp",
+    "static/media/thumbnail.webp": "/Thermo_Energy_Website/static/media/thumbnail.5aa3fa54232384bcda70.webp",
+    "static/media/user3.webp": "/Thermo_Energy_Website/static/media/user3.7f82e0b666e7f0dbf30e.webp",
+    "static/media/user4.webp": "/Thermo_Energy_Website/static/media/user4.768fa80625138d462e93.webp",
+    "static/media/user2.webp": "/Thermo_Energy_Website/static/media/user2.c9652bd3fb8ece33244a.webp",
+    "static/media/imagencamion.webp": "/Thermo_Energy_Website/static/media/imagencamion.fb264d71cbc44f0b5794.webp",
+    "static/media/imagencamion2.webp": "/Thermo_Energy_Website/static/media/imagencamion2.891f388955adf410757c.webp",
+    "static/media/img6.webp": "/Thermo_Energy_Website/static/media/img6.d1f71643f30af5ec1ff3.webp",
+    "static/media/img3.webp": "/Thermo_Energy_Website/static/media/img3.821c83846b1df17c6aa6.webp",
+    "static/media/img5.webp": "/Thermo_Energy_Website/static/media/img5.37693e549ae70355cff5.webp",
+    "static/media/img1.webp": "/Thermo_Energy_Website/static/media/img1.73f7ebab2ffa6eea9825.webp",
+    "static/media/producto2.webp": "/Thermo_Energy_Website/static/media/producto2.5aac69f646cdc641379a.webp",
+    "static/media/img4.webp": "/Thermo_Energy_Website/static/media/img4.95417f7059136d918e39.webp",
+    "static/media/producto3.webp": "/Thermo_Energy_Website/static/media/producto3.571c20f4f8b6b51c02e2.webp",
+    "static/media/producto4.webp": "/Thermo_Energy_Website/static/media/producto4.16b68f16a57f645e8ac5.webp",
+    "static/media/img2.webp": "/Thermo_Energy_Website/static/media/img2.48fc739917682116a421.webp",
+    "static/media/producto1.webp": "/Thermo_Energy_Website/static/media/producto1.dc53708a067666c50e88.webp",
+    "static/media/LogoThermo.webp": "/Thermo_Energy_Website/static/media/LogoThermo.fdc0f0a86b0070593e73.webp",
+    "index.html": "/Thermo_Energy_Website/index.html",
+    "main.4a257c83.css.map": "/Thermo_Energy_Website/static/css/main.4a257c83.css.map",
+    "main.5454c322.js.map": "/Thermo_Energy_Website/static/js/main.5454c322.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a257c83.css",
+    "static/js/main.5454c322.js"
+  ]
+}
